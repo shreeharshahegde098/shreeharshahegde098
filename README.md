@@ -1,59 +1,90 @@
-## Hi there 👋
-
-<!--
-**shreeharshahegde098/shreeharshahegde098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Shreeharsha</h1>
-<h3 align="center">Data Engineer | PySpark | Databricks | AWS</h3>
+<h1 align="center">Hi 👋, I'm Shreeharsha M Hegde</h1>
+<h3 align="center">Data Engineer | Databricks | PySpark | AWS</h3>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working as **L2 Intune Specialist**
-- 🌱 Learning **Data Engineering (PySpark, Delta Lake, AWS)**
-- 👨‍💻 Building **End-to-End Data Pipelines**
-- 📫 Reach me at: **yourmail@gmail.com**
-
----
-
-### 🔗 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">LinkedIn</a> |
-<a href="https://github.com/YOUR-USERNAME">GitHub</a>
-</p>
+- 💼 Currently working as **Associate IT Consultant @ ITC Infotech**
+- 🔧 Building **End-to-End Data Pipelines using Databricks & PySpark**
+- ☁️ Working with **AWS S3, IAM, Delta Lake**
+- 📊 Strong in **Data Modeling, ETL Pipelines & Medallion Architecture**
+- 🌱 Currently learning **Advanced Spark Optimization & Data Warehousing**
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: Python, SQL  
-- ⚙️ Tools: Databricks, Spark, AWS S3, Git  
-- 📊 Visualization: Power BI  
+- **Languages:** Python, SQL, PySpark, Java  
+- **Data Engineering:** ETL Pipelines, Data Ingestion, Data Modeling  
+- **Tools & Platforms:** Databricks, Spark, Linux, Git, Postman  
+- **Cloud:** AWS S3, AWS IAM  
+- **Databases:** PostgreSQL, Snowflake, Delta Lake  
+- **Visualization:** Power BI, Excel  
 
 ---
 
 ### 📂 Featured Projects
-- 🔹 End-to-End Data Pipeline (AWS + Databricks)
-- 🔹 Medallion Architecture Implementation
-- 🔹 SCD Type 2 using Delta Lake
+
+#### 🔹 End-to-End Data Pipeline (Databricks + AWS)
+- Built Bronze → Silver → Gold architecture
+- Processed large-scale JSON data from AWS S3
+- Implemented **SCD Type 2 using Delta Lake**
+- Designed **star schema (fact & dimension tables)**  
+🔗 https://github.com/shreeharshahegde098/customer_order_endToEnd_data_pipeline
+
+---
+
+#### 🔹 API-Based Data Pipeline
+- Ingested real-time data using external APIs
+- Processed data using PySpark
+- Built near real-time analytics pipeline  
+🔗 https://github.com/shreeharshahegde098/API_Data_Pipeline
+
+---
+
+#### 🔹 Sales Data Analysis
+- End-to-end analysis using Python, SQL & Power BI
+- Data stored in Snowflake warehouse  
+🔗 https://github.com/shreeharshahegde098/Sales_Analysis
+
+---
+
+#### 🔹 E-Commerce Data Analysis
+- Designed relational schema in PostgreSQL
+- Performed SQL-based business analysis  
+🔗 https://github.com/shreeharshahegde098/E_Commerce_Project_PSQL
 
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+![Shreeharsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreeharshahegde098&show_icons=true&theme=radical)
+
+---
+
+### 📜 Certifications
+- Microsoft Azure Services and Lifecycles (2024)
+- Git for Developers using GitHub (Coursera)
+- Databricks Performance Optimization (2026)
+
+---
+
+### 🏆 Achievements
+- 🥇 First Prize – National Conference (NCAIT)  
+  *“Enhancing Smart Farming with Blockchain & Data Fusion”*
+
+---
+
+### 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/shreeharshamh/
+- 📧 Email: harshamhegde7777@gmail.com
+
+---
+
+### 📌 Current Focus
+- Building Production-Ready Data Pipelines
+- Optimizing Spark Jobs
+- Learning Advanced Data Modeling
 
 ---
 
 ### ⚡ Fun Fact
-I build data pipelines that turn raw data into business insights 🚀
+I turn raw data into meaningful insights using scalable data engineering pipelines 🚀
