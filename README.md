@@ -151,14 +151,6 @@ I turn raw data into meaningful insights using scalable data engineering pipelin
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreeharshahegde098&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeharshahegde098&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📜 Certifications
 - Microsoft Azure Services and Lifecycles (2024)  
 - Git for Developers using GitHub (Coursera)  
