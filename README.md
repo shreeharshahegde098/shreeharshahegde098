@@ -55,11 +55,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Shreeharsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreeharshahegde098&show_icons=true&theme=radical)
-
----
-
 ### 📜 Certifications
 - Microsoft Azure Services and Lifecycles (2024)
 - Git for Developers using GitHub (Coursera)
