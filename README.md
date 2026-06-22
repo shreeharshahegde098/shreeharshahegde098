@@ -1,7 +1,7 @@
 
 
 <h1 align="center">👋 Hi, I'm Shreeharsha M Hegde</h1>
-<h3 align="center">🚀 Data Engineer | Databricks | PySpark | AWS</h3>
+<h3 align="center">🚀 Data Engineer | Databricks | PySpark | ADF | AWS</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreeharshamh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
